@@ -1,0 +1,94 @@
+
+.headerCabecera{
+   
+    background-color: black;
+    
+}
+.cabecera {
+    
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+    }
+
+.Deportes{
+    width: auto;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 180px;
+    text-align: center;
+    background: url(imagenes/oceano.jpg);
+}
+
+.Kitesurf{
+    font-size: 80px;
+    color: #0000FF;
+    padding: 20px;
+    font-style: italic;
+}
+
+.Surf{
+    font-size: 80px;
+    color: #0000FF;
+    padding: 20px;
+    font-style: italic;
+
+}
+.Deportes li{
+    display: inline-block;
+    text-align: center;
+    margin: 0 1.5%;
+    padding: 10px;
+}
+
+.imgKitesurf{
+    box-sizing: border-box;
+    border: 3px solid #000000;
+    
+}
+
+.imgSurf{
+    box-sizing: border-box;
+    border: 3px solid #000000;
+    
+}
+
+.imgKitesurf:hover{
+    
+    box-sizing: border-box;
+    border: 4px solid #0000FF;
+    cursor: pointer;
+
+}
+
+.imgSurf:hover{
+    box-sizing: border-box;
+    border: 4px solid #0000FF;
+    cursor: pointer;
+}
+
+.imgKitesurf:active{
+    border-color: #000000;
+    transition: 0.2s;
+}
+
+.imgSurf:active{
+    border-color: #000000;
+}
+footer{
+    text-align: center;
+    background-color: black;
+  }
+
+
+.copyright{
+    text-align: center;
+    color: white;
+    padding-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif
+    
+}
+
+/*comienza estilo de Kitesurf.html*/
+
